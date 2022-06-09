@@ -12,6 +12,7 @@
 <br>
 <br>
 <br>
+<br>
 <h1 align="center">Hi 👋, I'm Ishika Jain</h1>
 <h3 align="center">A passionate java developer from India</h3>
 <img align="right" alt="coding-girl" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" />
