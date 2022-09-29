@@ -1,7 +1,7 @@
 
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C561BAQF48r3wrtVxow/company-background_10000/0/1519801300401?e=2147483647&v=beta&t=9lS3j8YQb-qDrG7I9Ya_U0FasyGqEwfZOHVlokVcHQo)
 <div>
-<img align="left" alt="my-pic" src="https://media-exp1.licdn.com/dms/image/C4D03AQEkylgFejOn5g/profile-displayphoto-shrink_800_800/0/1615095834546?e=1660176000&v=beta&t=q5IezkV0bCiH_zolhcYc8TQS5HEA04Bvk0InX_zW7Hw" width="300" height="300">
+<img align="left" alt="my-pic" src="https://media-exp1.licdn.com/dms/image/C4D03AQEkylgFejOn5g/profile-displayphoto-shrink_400_400/0/1615095834546?e=1669852800&v=beta&t=fuKI_fHCJFYxkFlRPckNqyNNhm0TdoEg9464SASxVDk" width="300" height="300">
 <br>
 <p align="right">Make it work, make it right, make it fast.</p>
 <p align="right">In order to be irreplaceable, one must always be different</p>
