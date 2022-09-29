@@ -1,5 +1,5 @@
 
-![MasterHead](https://media-exp1.licdn.com/dms/image/C561BAQF48r3wrtVxow/company-background_10000/0/1519801300401?e=2147483647&v=beta&t=9lS3j8YQb-qDrG7I9Ya_U0FasyGqEwfZOHVlokVcHQo)
+![MasterHead](https://camo.githubusercontent.com/6ce26497c92c1a8d72c8816fc76ed9438cc0e815b73a410895c95634d863ff8d/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966)
 <div>
 <img align="left" alt="my-pic" src="https://media-exp1.licdn.com/dms/image/C4D03AQEkylgFejOn5g/profile-displayphoto-shrink_400_400/0/1615095834546?e=1669852800&v=beta&t=fuKI_fHCJFYxkFlRPckNqyNNhm0TdoEg9464SASxVDk" width="300" height="300">
 <br>
@@ -14,7 +14,7 @@
 <br>
 <br>
 <h1 align="center">Hi 👋, I'm Ishika Jain</h1>
-<h3 align="center">A passionate java developer from India</h3>
+<h3 align="center">A citizen of India</h3>
 <img align="right" alt="coding-girl" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishidesigns&label=Profile%20views&color=0e75b6&style=flat" alt="ishidesigns" /> </p>
