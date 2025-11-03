@@ -14,7 +14,7 @@
 <br>
 <br>
 <h1 align="center">Hi 👋, I'm Ishika Jain</h1>
-<h3 align="center">A citizen of India</h3>
+<h3 align="center">Software Engineer at Lowe's</h3>
 <img align="right" alt="coding-girl" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishidesigns&label=Profile%20views&color=0e75b6&style=flat" alt="ishidesigns" /> </p>
@@ -30,7 +30,7 @@
 <a href="https://linkedin.com/in/ishika-jain-889843175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishika-jain-889843175" height="30" width="40" /></a>
 <a href="https://instagram.com/_ishidesigns_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ishidesigns_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ishika_jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ishika_jain" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ishidesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishidesigns" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ishidesigns12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishidesigns" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
