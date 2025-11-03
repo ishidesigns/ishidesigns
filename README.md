@@ -1,7 +1,7 @@
 
 <img src = "https://camo.githubusercontent.com/6ce26497c92c1a8d72c8816fc76ed9438cc0e815b73a410895c95634d863ff8d/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="100%"/>
 <div>
-<img align="left" alt="my-pic" src="https://media-exp1.licdn.com/dms/image/C4D03AQEkylgFejOn5g/profile-displayphoto-shrink_400_400/0/1615095834546?e=1669852800&v=beta&t=fuKI_fHCJFYxkFlRPckNqyNNhm0TdoEg9464SASxVDk" width="300" height="300">
+<img align="left" alt="my-pic" src="[https://media-exp1.licdn.com/dms/image/C4D03AQEkylgFejOn5g/profile-displayphoto-shrink_400_400/0/1615095834546?e=1669852800&v=beta&t=fuKI_fHCJFYxkFlRPckNqyNNhm0TdoEg9464SASxVDk](https://media.licdn.com/dms/image/v2/D5603AQEgCxx0N86slQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1697991632219?e=2147483647&v=beta&t=r6DG98IZBLtv4qQvCZVUC8CVKzzThIuwgZu726nlNrM)" width="300" height="300">
 <br>
 <p align="right">Make it work, make it right, make it fast.</p>
 <p align="right">In order to be irreplaceable, one must always be different</p>
@@ -19,7 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishidesigns&label=Profile%20views&color=0e75b6&style=flat" alt="ishidesigns" /> </p>
 
-- 🌱 I’m currently learning **DSA, Web Development technologies**
+- 🌱 I’m proficient with learning **Java, Spring Boot, System Design, OOPs Concepts, Kafka, Docker, Devops, Linux Shell Scripting**
 
 - 💬 Ask me about **DSA with Java**
 
